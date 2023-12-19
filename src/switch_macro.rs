@@ -9,7 +9,7 @@
 /// Example:
 ///
 /// ```
-/// use switch_statement::switch;
+/// use polymerust::switch;
 ///
 /// const A: u32 = 1 << 0;
 /// const B: u32 = 1 << 1;
